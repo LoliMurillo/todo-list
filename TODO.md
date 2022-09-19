@@ -12,7 +12,7 @@ This is the checklist of tasks to make a good readme:
 - [ ] Authors
 - [ ] License
 
-Project Title
+Project Title.
 
 One Paragraph of the project description
 You can find more by visiting the Codespace repository
